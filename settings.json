@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "afkbot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "24h_hoster",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "polterboys.aternos.me",
     "port": 92591,
     "version": "1.21.1"
   },
